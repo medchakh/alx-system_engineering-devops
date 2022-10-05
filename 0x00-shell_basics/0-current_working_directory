@@ -1,2 +1,3 @@
-#!/bin/bash//alx-system_engineering-devops  pwd
-/tmp/correction/8904218394274348791463809320472506916063_5/205/168112/0x00-shell_basics
+$ ./0-current_working_directory
+/root/alx-system_engineering-devops/0x00-shell_basics
+$
