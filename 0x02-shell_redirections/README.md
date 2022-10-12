@@ -15,4 +15,9 @@
 [14-findthatword](./14-findthatword).
 [15-countthatword](./15-countthatword).
 [16-whatsnext](./16-whatsnext).
-[17-hidethisword](./17-hidethisword)
+[17-hidethisword](./17-hidethisword).
+[18-letteronly](./18-letteronly).
+[19-AZ](./19-AZ).
+[20-hiago](./20-hiago).
+[21-reverse](./21-reverse).
+[22-users_and_homes](./22-users_and_homes)
