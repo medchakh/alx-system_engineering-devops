@@ -7,4 +7,5 @@
 [6-third_line](./6-third_line).
 [7-file](./7-file).
 [8-cwd_state](./8-cwd_state)
-[9-duplicate_last_line](./9-duplicate_last_line)
+[9-duplicate_last_line](./9-duplicate_last_line).
+[10-no_more_js](./10-no_more_js).
